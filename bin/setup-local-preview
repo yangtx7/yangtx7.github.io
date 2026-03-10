@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+RUBY_PREFIX="${RUBY_PREFIX:-/opt/homebrew/opt/ruby@3.3}"
+RUBY_BIN="$RUBY_PREFIX/bin"
+BUNDLER_VERSION="4.0.4"
+LOCAL_GEM_HOME="$ROOT_DIR/.bundle/gems"
+LOCAL_BUNDLE_BIN="$LOCAL_GEM_HOME/bin"
+LOCAL_BUNDLE_PATH="$ROOT_DIR/vendor/bundle"
+LOCAL_HOME="$ROOT_DIR/.local-home"
+LOCAL_CACHE_HOME="$ROOT_DIR/.cache"
+LOCAL_JUPYTER_HOME="$ROOT_DIR/.jupyter"
+
+if [[ ! -x "$RUBY_BIN/ruby" ]]; then
+  echo "ruby@3.3 not found at $RUBY_BIN" >&2
+  echo "Install it with: brew install ruby@3.3 imagemagick" >&2
+  exit 1
+fi
+
+export PATH="$RUBY_BIN:$LOCAL_BUNDLE_BIN:$PATH"
+export HOME="$LOCAL_HOME"
+export GEM_HOME="$LOCAL_GEM_HOME"
+export GEM_PATH="$LOCAL_GEM_HOME"
+export BUNDLE_APP_CONFIG="$ROOT_DIR/.bundle"
+export XDG_CACHE_HOME="$LOCAL_CACHE_HOME"
+export JUPYTER_CONFIG_DIR="$LOCAL_JUPYTER_HOME"
+export JUPYTER_DATA_DIR="$LOCAL_JUPYTER_HOME"
+export JUPYTER_RUNTIME_DIR="$LOCAL_JUPYTER_HOME/runtime"
+
+mkdir -p "$LOCAL_GEM_HOME" "$LOCAL_BUNDLE_PATH" "$LOCAL_HOME" "$LOCAL_CACHE_HOME" "$LOCAL_JUPYTER_HOME/runtime"
+
+if ! bundle "_${BUNDLER_VERSION}_" --version >/dev/null 2>&1; then
+  "$RUBY_BIN/gem" install bundler -v "$BUNDLER_VERSION" --install-dir "$LOCAL_GEM_HOME" --no-document
+fi
+
+bundle "_${BUNDLER_VERSION}_" config set --local path "$LOCAL_BUNDLE_PATH"
+
+if ! bundle "_${BUNDLER_VERSION}_" check >/dev/null 2>&1; then
+  bundle "_${BUNDLER_VERSION}_" install
+fi
