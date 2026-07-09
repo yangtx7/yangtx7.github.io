@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Curriculum vitae.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-welcome",
         
           title: "Welcome",
@@ -48,12 +41,84 @@ ninja.data = [{
             window.location.href = "/blog/2026/welcome/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-site-initialized-with-the-al-folio-template",
+      },{id: "post-rainy-bali",
+        
+          title: "Rainy Bali",
+        
+        description: "Riding a scooter in the mud.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/rainy-bali/";
+          
+        },
+      },{id: "post-impressions-of-java",
+        
+          title: "Impressions of Java",
+        
+        description: "Another solo trip to Java island.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/impressions-of-java/";
+          
+        },
+      },{id: "post-desert-rose",
+        
+          title: "Desert Rose",
+        
+        description: "A glimpse of Qatar.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/desert-rose/";
+          
+        },
+      },{id: "post-spreading-eurasia-2",
+        
+          title: "Spreading Eurasia (2)",
+        
+        description: "Roadtrip alongside the Aegean Sea.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/spreading-eurasia-2/";
+          
+        },
+      },{id: "post-spreading-eurasia-1",
+        
+          title: "Spreading Eurasia (1)",
+        
+        description: "Exploring Istanbul and the Bosphorus.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/spreading-eurasia-1/";
+          
+        },
+      },{id: "post-mirage-of-the-gulf-2",
+        
+          title: "Mirage of the Gulf (2)",
+        
+        description: "Limited-time travel before the war.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/mirage-of-the-gulf-2/";
+          
+        },
+      },{id: "post-mirage-of-the-gulf-1",
+        
+          title: "Mirage of the Gulf (1)",
+        
+        description: "A solotrip started from Dubai.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/mirage-of-the-gulf-1/";
+          
+        },
+      },{id: "news-site-initialized-with-the-al-folio-template",
           title: 'Site initialized with the al-folio template.',
           description: "",
           section: "News",},{
