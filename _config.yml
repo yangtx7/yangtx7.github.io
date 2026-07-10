@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: yangtx7
+title: Tianxing Yang
 first_name: Tianxing
 middle_name:
 last_name: Yang
@@ -12,8 +12,8 @@ description: >
   Personal academic homepage and blog.
 footer_text: >
 keywords: academic homepage, research, blog
-lang: zh-CN
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+lang: en-US
+icon: 🔭 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yangtx7.github.io
 baseurl:
