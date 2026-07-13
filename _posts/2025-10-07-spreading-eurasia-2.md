@@ -20,13 +20,45 @@ The van drove along a dirt road up the mountain. Along the way, I watched the al
 
 The whole process was not as thrilling as I had imagined, but it was definitely an experience one rarely gets to have in life. Looking out across the sky, there were dozens of paragliders slowly descending through the air. At one moment, I was drifting far from the shore over the middle of the sea; at another, I was floating above the town. The instructor also raised a GoPro and tried various maneuvers, including rolling in the air and dropping rapidly. In the end, we landed safely on the beach. I also spent 40 euros buying the photos the instructor had taken.
 
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/pic16.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Watching the sunset on the beach with a cat" %}
+  </div>
+</div>
+
 By the time everything was packed up and I walked out of the paragliding shop, I was beside the beach, just as dusk was falling. I took out my camera and recorded the blue hour at that moment. The sunlight hit the sea at a steep angle, making every ripple of the waves clearly visible. Together with the silhouettes of people on the beach, I almost felt that I had taken the best photos of my trip so far. At that moment, a cat walked across the sand and stopped beside a ladder. I quickly took photos of it. Then a tourist came over and asked if I wanted him to take the photo. He gestured for me to hand him the camera, adjusted several settings, and then took the shot. That photo captured the cat in a perfect silhouette, with the blurred sunset, sea, and beach in the background, the colors gradually shifting from orange-red to blue-green. This can probably be called one of the most unforgettable memories of the entire journey.
+
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/pic17.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Swimming pool and bar" %}
+  </div>
+</div>
 
 The second day was the D400 road trip: a chartered car from Fethiye to Antalya via Kaş. Since I was traveling alone and did not know how to drive, I could only look for a chartered car. I had posted on Xiaohongshu a month in advance and then contacted the first person who messaged me. She had also posted on Xiaohongshu, and in the end she gathered a group of nine people. When the group chat was created, I discovered that everyone except me was female, which felt somewhat beyond my imagination. I was in the same car with four others. The vehicle was a relatively luxurious Mercedes minibus, and it cost only around 1,500 RMB for the whole day, with about 15 seats. This reminded me of the time I chartered a car in Japan: a seven-seat Toyota Vellfire for one day had cost 2,500 RMB.
 
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/pic18.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="The morning sunlight filtered through the trees" %}
+  </div>
+</div>
+
+
 Along the way, we got out at various spots to take photos and check in. We also came across a beach resort and an ancient Roman theater. The road runs along the northern side of the Aegean Sea, and the sea there really was beautiful. It was a deep blue I had never seen before. In China, even including Southeast Asia, the seas I had seen were always yellowish and turbid; at most, they were a pale blue.
 
-At noon, we got out in Kaş. I went to lunch with two of the girls, and we found a roadside restaurant with good Google ratings. We ordered several dishes and were about to start eating when two cats emerged from the bushes beside the table. One of them, a calico, stared fixedly at the fish on the table. We forked out a small piece of fish for it, but it refused to eat. Only after the orange cat beside it had left did it finally dare to eat. It turned out that it had been afraid of the other cat. After that, we wandered around Kaş. The town had a delicate Mediterranean charm. I also bought some Turkish delight and went to drink Turkish coffee.
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/pic19.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="The deep blue Aegean Sea, alongside D400" %}
+  </div>
+</div>
+
+
+At noon, we got out in Kaş. I went to lunch with two of the girls, and we found a roadside restaurant with good Google ratings. We ordered several dishes and were about to start eating when two cats emerged from the bushes beside the table. One of them, a calico, stared fixedly at the fish on the table. We forked out a small piece of fish for it, but it refused to eat. Only after the orange cat beside it had left did it finally dare to eat. It turned out that it had been afraid of the other cat. After that, we wandered around Kaş. The town had a delicate Mediterranean charm. I also bought some Turkish candy and went to drink Turkish coffee.
+
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/pic20.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Yachts on the coast, Kaş" %}
+  </div>
+</div>
 
 By the time we arrived in Antalya, it was already 7 p.m. All of us found a restaurant for a group dinner, ordering various meat and seafood platters. In the end, we raised our glasses and took a group photo to celebrate the Mid-Autumn Festival in a foreign land.
 
