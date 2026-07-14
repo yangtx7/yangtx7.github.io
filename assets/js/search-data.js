@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-welcome",
+        },{id: "post-agent-for-optimization-anthropic-39-s-performance-takehome",
+        
+          title: "Agent for Optimization: Anthropic&#39;s Performance Takehome",
+        
+        description: "Using Claude Opus 4.8 to optimize Anthropic&#39;s kernel performance takehome down to 986 cycles.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/agent-for-optimization/";
+          
+        },
+      },{id: "post-welcome",
         
           title: "Welcome",
         
