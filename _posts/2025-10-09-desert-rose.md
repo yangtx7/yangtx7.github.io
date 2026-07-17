@@ -20,7 +20,7 @@ Then I checked into the hotel. This time, taking advantage of the low travel sea
 
 <div class="row justify-content-center">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/22.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/22.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="The iconic Museum of Islamic Art" %}
   </div>
 </div>
 
@@ -28,7 +28,7 @@ That evening, after leaving the hotel, I first took the metro to visit Souq Waqi
 
 <div class="row justify-content-center">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/23.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/23.jpeg" class="img-fluid rounded z-depth-1" zoomable=true caption="National Museum of Qatar, 'Desert Rose'" %}
   </div>
 </div>
 
@@ -38,7 +38,7 @@ After that, I went to Place Vendôme, another shopping mall that blends elements
 
 <div class="row justify-content-center">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/24.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/24.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="A little girl is chasing her mother, with the Doha skyline in the background." %}
   </div>
 </div>
 
@@ -48,7 +48,7 @@ After leaving, I continued by taxi to Mina District. After the taxi driver asked
 
 <div class="row justify-content-center">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/25.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/25.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="People talking at a café, a photo with a strong futuristic feel" %}
   </div>
 </div>
 
@@ -59,7 +59,7 @@ Finally, I took the metro back to Hamad International Airport, bringing this two
 
 <div class="row justify-content-center">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/26.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/26.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Various airplanes at Hamad International Airport" %}
   </div>
 </div>
 
