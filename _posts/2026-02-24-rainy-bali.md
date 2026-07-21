@@ -10,15 +10,33 @@ giscus_comments: false
 
 After taking the ferry to the pier on the west side of Bali, I got into the private car I had booked in advance and headed to the guesthouse I had reserved in Canggu. The car cost 380 RMB, which was obviously rather expensive, but because of time constraints I did not really want to spend more time comparing prices. In the end, the drive was only about 80 km, but it took around five hours. By the time I arrived at the guesthouse, it was already about 7 p.m. Fortunately, the driver of the private car had communicated with the guesthouse staff in advance. I had spent some time looking on Airbnb beforehand and eventually chose a fairly nice place: a treehouse with a very high ceiling, and the light and shadows inside were also quite beautiful. It cost a little over 400 RMB per night.
 
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/33.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="A corner of the villa where I stayed" %}
+  </div>
+</div>
+
 I had also read in advance that renting a scooter was a relatively convenient way to get around Bali. The problem was that I had not found a rental place beforehand, so I planned to just walk into a shop directly and rent one. But after trying several shops, I either found no one there or got no response after messaging them on WhatsApp, so I had to give up.
 
 Canggu really does live up to its reputation as a digital nomad community. It has all kinds of very chill restaurants, bars, bistros, and so on, covering all sorts of activities and cuisines. For dinner that day, I found a restaurant that looked like fine dining. But going there alone while carrying an Osprey hiking backpack did feel slightly awkward.
 
 The next morning, I first took a motorcycle taxi to Kuta Beach to look at the surfing scene and the seaside shopping mall, although my schedule did not really leave much time for surfing. Security at the shopping mall there was strict. Before entering, you had to let the guards search your backpack. This reminded me of when I was in Jakarta: when a taxi entered the hotel checkpoint, the security guard would scan the entire car body with a metal detector. After looking it up, I learned that Bali had suffered a serious terrorist attack in 2002, killing around 200 people, so it was not hard to understand.
 
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/34.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="The street scenes in Bali" %}
+  </div>
+</div>
+
 That said, local life there really did seem leisurely. People did not reply to messages after getting off work in the evening, and in the morning they only started work after 10 a.m. The beach and the nearby shopping mall seemed to have all kinds of people. Judging roughly by sight, the ratio of Indonesians, white people, Chinese people, and Indians was probably about 6:2:1:1.
 
 Perhaps because Hinduism happens to be the dominant religion in Bali, there were also quite a few Indian tourists there. By the roadside, beside small shops, green little boxes placed on the ground could be seen everywhere, containing various offerings. I later learned that these were offerings in Hinduism for appeasing evil spirits. Along the street, there were also various sculpture shops, with one statue after another displayed inside — all kinds of Hindu deities.
+
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/35.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Surfboards by the Kuta beach" %}
+  </div>
+</div>
 
 At noon, I finally managed to rent a scooter. It was a Honda Vario 125. But the first awkward problem I encountered was that I did not know how to ride it. I fumbled around for quite a while before learning how to start the engine and open the storage box to take out the helmet.
 
@@ -26,8 +44,22 @@ After learning how to ride the scooter, I first planned to ride to Ubud and visi
 
 The monkeys in the Sacred Monkey Forest can interact with humans at very close range. One even snatched a Miniso hand sanitizer from a tourist’s bag right beside me, then darted back up into a tree, apparently preparing to drink it like a beverage. The park was filled with various sculptures arranged in a scattered but harmonious way. The black stones were covered with moss, making the scene look somewhat like something out of *Temple Run*.
 
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/36.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="A monkey sits between two monkey statues" %}
+  </div>
+</div>
+
 After that, I rode to the rice terraces in Ubud. The elevation difference there was even greater. The terraces sit in a valley, and it is actually a pretty good hiking route. There were also several large swings there. The ropes were about 15 meters long, and when you sat on one, you could swing out over the valley.
+
+
 At that point, Q happened to ask me to have dinner with him. The place was near the beach in southern Denpasar, so I rode another 50-plus km to get there. Halfway through, I first found a gas station to refuel the scooter. Not long after, it started pouring heavily. I put on the disposable raincoat I had prepared, covered my backpack with its rain cover, and sped through the rain the whole way. I started singing the song *Jacket of the Pilot*, which I had heard while traveling in the Middle East. Riding a scooter at high speed through a rainy night in a foreign country — I may never have another experience like that in my life.
+
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/37.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Delicious stir-fried noodles" %}
+  </div>
+</div>
 
 Q and I had dinner at a restaurant called Fat Chow. We ordered fried rice and fried noodles, which suited my Chinese stomach very well. After that, he recommended that I go to Finns, saying it was the best beach club in Asia.
 When I arrived, the atmosphere inside really was quite good. It was divided into roughly ten music areas, combined with the beach, the infinity pool on the beach, and a restrained use of different kinds of lighting. The dance areas were very similar to the scene at an electronic music festival: a DJ in the center, with a circle of people jumping around. But for a tourist like me, wearing a T-shirt and carrying a hiking backpack, it was rather awkward. After walking around once and experiencing the atmosphere, I went back to the hotel.
@@ -35,6 +67,12 @@ When I arrived, the atmosphere inside really was quite good. It was divided into
 The next day, I signed up at the last minute for a tour to Nusa Penida, mainly because I did not want to ride a scooter for another whole day. In the morning, the driver picked me up from the villa and took me to the pier. Our tour group took a small boat to Penida Island, which took about one hour, and then transferred to an SUV.
 Soon after, it began pouring again. The roads on Penida Island were only single-lane, and because many sections were damaged, they became muddy in the rain. Naturally, the ride was extremely bumpy. The first places we visited were Broken Beach and Angel’s Billabong, which were roughly a spectacular natural rock bridge over the sea. But the rain was still too heavy. I could only hold an umbrella while raising my camera to take photos, which made the whole scene rather messy.
 There were also quite a few Indians there taking photos for social media, which changed my previous impression that “the main force taking polished travel photos at every scenic spot is always Chinese tourists.”
+
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/38.jpg" class="img-fluid rounded z-depth-1" zoomable=true caption="Watching the surging waves with monkey" %}
+  </div>
+</div>
 
 In the afternoon, we arrived at Kelingking Beach. It had a white sandy beach, and beyond it, the seawater gradually shifted from pale blue to sky blue and then into deep blue. There is a reason why it is associated with cliffs: the place where cars can reach is probably at an elevation of around 250 meters, but to get down to the beach, you have to take an extremely steep path. So even though the top of the cliff was packed with people, very few could actually make it down to the beach, despite the fact that it was open.
 
