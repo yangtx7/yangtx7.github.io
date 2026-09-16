@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-agent-for-optimization-anthropic-39-s-performance-takehome",
+        },{id: "post-musings-on-24th-birthday",
+        
+          title: "Musings on 24th birthday",
+        
+        description: "Turning 24.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/musings-on-24th-birthday/";
+          
+        },
+      },{id: "post-agent-for-optimization-anthropic-39-s-performance-takehome",
         
           title: "Agent for Optimization: Anthropic&#39;s Performance Takehome",
         
