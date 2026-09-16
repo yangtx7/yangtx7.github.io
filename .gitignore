@@ -12,3 +12,6 @@ assets/libs/
 Gemfile.lock
 node_modules/
 vendor
+.cache
+.local-home
+.jupyter

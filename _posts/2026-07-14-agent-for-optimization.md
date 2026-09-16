@@ -22,7 +22,7 @@ On the GitHub page, its performance is described as follows:
 
 <div class="row justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/pic21.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    {% include figure.liquid path="assets/img/pic21.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
 
