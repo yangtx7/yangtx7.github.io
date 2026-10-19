@@ -34,7 +34,7 @@ ninja.data = [{
         
           title: "Musings on 24th birthday",
         
-        description: "Turning 24.",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -45,29 +45,18 @@ ninja.data = [{
         
           title: "Agent for Optimization: Anthropic&#39;s Performance Takehome",
         
-        description: "Using Claude Opus 4.8 to optimize Anthropic&#39;s kernel performance takehome down to 986 cycles.",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/agent-for-optimization/";
           
         },
-      },{id: "post-welcome",
-        
-          title: "Welcome",
-        
-        description: "The first post on this site.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/welcome/";
-          
-        },
       },{id: "post-rainy-bali",
         
           title: "Rainy Bali",
         
-        description: "Riding a scooter in the mud.",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -78,7 +67,7 @@ ninja.data = [{
         
           title: "Impressions of Java",
         
-        description: "Another solo trip to Java island.",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -89,7 +78,7 @@ ninja.data = [{
         
           title: "Desert Rose",
         
-        description: "A glimpse of Qatar.",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -100,7 +89,7 @@ ninja.data = [{
         
           title: "Spreading Eurasia (2)",
         
-        description: "Roadtrip alongside the Aegean Sea.",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -111,7 +100,7 @@ ninja.data = [{
         
           title: "Spreading Eurasia (1)",
         
-        description: "Exploring Istanbul and the Bosphorus.",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -122,7 +111,7 @@ ninja.data = [{
         
           title: "Mirage of the Gulf (2)",
         
-        description: "Limited-time travel before the war.",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -133,7 +122,7 @@ ninja.data = [{
         
           title: "Mirage of the Gulf (1)",
         
-        description: "A solotrip started from Dubai.",
+        description: "",
         section: "Posts",
         handler: () => {
           
