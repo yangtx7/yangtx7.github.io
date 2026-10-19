@@ -2,7 +2,6 @@
 layout: post
 title: Musings on 24th birthday
 date: 2026-09-16 12:00:00+08:00
-description: Turning 24.
 tags: [life]
 categories: [blog]
 giscus_comments: false

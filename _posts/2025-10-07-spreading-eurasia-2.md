@@ -2,7 +2,6 @@
 layout: post
 title: Spreading Eurasia (2)
 date: 2025-10-07 12:00:00+08:00
-description: Roadtrip alongside the Aegean Sea.
 tags: [travel]
 categories: [blog]
 giscus_comments: false

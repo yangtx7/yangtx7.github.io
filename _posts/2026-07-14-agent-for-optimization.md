@@ -2,7 +2,6 @@
 layout: post
 title: "Agent for Optimization: Anthropic's Performance Takehome"
 date: 2026-07-14 12:00:00+08:00
-description: Using Claude Opus 4.8 to optimize Anthropic's kernel performance takehome down to 986 cycles.
 tags: [agent, HPC]
 categories: [blog]
 giscus_comments: false

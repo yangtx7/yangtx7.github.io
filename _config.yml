@@ -147,6 +147,9 @@ collections:
     defaults:
       layout: post
     output: true
+  posts_zh: # Chinese translations, paired with _posts/ by filename (see _plugins/post-translations.rb)
+    output: true
+    permalink: /zh/blog/:year/:title/
   projects:
     output: true
   teachings:
@@ -224,6 +227,11 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      type: posts_zh
+    values:
+      layout: post
+      lang: zh-CN
 
 sass:
   style: compressed

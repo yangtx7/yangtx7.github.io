@@ -2,7 +2,6 @@
 layout: post
 title: Mirage of the Gulf (2)
 date: 2025-10-02 12:00:00+08:00
-description: Limited-time travel before the war.
 tags: [travel]
 categories: [blog]
 giscus_comments: false

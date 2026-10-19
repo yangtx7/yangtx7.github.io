@@ -2,7 +2,6 @@
 layout: post
 title: Desert Rose
 date: 2025-10-09 12:00:00+08:00
-description: A glimpse of Qatar.
 tags: [travel]
 categories: [blog]
 giscus_comments: false

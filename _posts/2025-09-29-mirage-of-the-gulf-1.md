@@ -2,7 +2,6 @@
 layout: post
 title: Mirage of the Gulf (1)
 date: 2025-09-29 12:00:00+08:00
-description: A solotrip started from Dubai.
 tags: [travel]
 categories: [blog]
 giscus_comments: false

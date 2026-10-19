@@ -2,7 +2,6 @@
 layout: post
 title: Spreading Eurasia (1)
 date: 2025-10-05 12:00:00+08:00
-description: Exploring Istanbul and the Bosphorus.
 tags: [travel]
 categories: [blog]
 giscus_comments: false

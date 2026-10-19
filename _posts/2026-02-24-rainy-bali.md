@@ -2,7 +2,6 @@
 layout: post
 title: Rainy Bali
 date: 2026-02-24 12:00:00+08:00
-description: Riding a scooter in the mud.
 tags: [travel]
 categories: [blog]
 giscus_comments: false

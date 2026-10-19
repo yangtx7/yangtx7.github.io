@@ -2,7 +2,6 @@
 layout: post
 title: Impressions of Java
 date: 2026-02-20 12:00:00+08:00
-description: Another solo trip to Java island.
 tags: [travel]
 categories: [blog]
 giscus_comments: false
@@ -79,6 +78,8 @@ The mountains there, several of which were over 2,500 meters high, did not rise 
 </div>
 
 After waiting for nearly two hours, we finally climbed to the summit. Although we could see the iconic crater, the sun was blocked by clouds and the weather was overcast, so it was impossible to take photos with a truly spectacular visual effect. Afterward, we returned to the jeep and then walked across the volcanic ash plain to the crater. The crater was spewing thick sulfurous smoke. I only stayed there briefly before heading back to the jeep.
+
+By the time we came down from Mount Bromo, it was already around 10 a.m. We got back on the bus, which raced through a tropical rainforest that was both lush and desolate, and at noon we stopped at a restaurant for lunch. The lunch there was quite “exotic” too. The decor and the food reminded me of scenes from the last century: the meat was one big chunk boiled until tough, and the drinks were mixed from powder, possibly with a few small bugs in them. Yet I did not find it off-putting or uncomfortable, because this was also a genuine part of the journey, and probably the real Indonesia. I still regret a little that I did not take any photos of that restaurant.
 
 After that, the tour group’s minibus drove all the way to the easternmost end of Java and arrived at the hotel where we would stay that night. By then, it was almost 6 p.m. The hotel was in the style of a primitive resort, with all the rooms being one-story wooden cabins. At that point, we were told that there had been an accident at Ijen Volcano, so we could not go there. The next day’s itinerary was changed to snorkeling on a nearby small island.
 
