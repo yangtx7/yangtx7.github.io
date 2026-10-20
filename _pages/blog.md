@@ -145,11 +145,6 @@ pagination:
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {% endif %}
-        {% if post.translation_url %}
-        &nbsp; &middot; &nbsp;
-        <a href="{{ post.translation_url | relative_url }}" hreflang="{{ post.translation_lang }}" lang="{{ post.translation_lang }}">
-          <i class="fa-solid fa-language fa-sm"></i> 中文</a>
-        {% endif %}
 
           {% if tags != "" %}
           &nbsp; &middot; &nbsp;

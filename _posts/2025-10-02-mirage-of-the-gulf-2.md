@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mirage of the Gulf (2)
+title: Mirage of the Gulf II
 date: 2025-10-02 12:00:00+08:00
 tags: [travel]
 categories: [blog]
