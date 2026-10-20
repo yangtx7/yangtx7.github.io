@@ -85,9 +85,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/desert-rose/";
           
         },
-      },{id: "post-spreading-eurasia-2",
+      },{id: "post-spreading-eurasia-ii",
         
-          title: "Spreading Eurasia (2)",
+          title: "Spreading Eurasia II",
         
         description: "",
         section: "Posts",
@@ -96,9 +96,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/spreading-eurasia-2/";
           
         },
-      },{id: "post-spreading-eurasia-1",
+      },{id: "post-spreading-eurasia-i",
         
-          title: "Spreading Eurasia (1)",
+          title: "Spreading Eurasia I",
         
         description: "",
         section: "Posts",
@@ -107,9 +107,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/spreading-eurasia-1/";
           
         },
-      },{id: "post-mirage-of-the-gulf-2",
+      },{id: "post-mirage-of-the-gulf-ii",
         
-          title: "Mirage of the Gulf (2)",
+          title: "Mirage of the Gulf II",
         
         description: "",
         section: "Posts",
@@ -118,9 +118,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/mirage-of-the-gulf-2/";
           
         },
-      },{id: "post-mirage-of-the-gulf-1",
+      },{id: "post-mirage-of-the-gulf-i",
         
-          title: "Mirage of the Gulf (1)",
+          title: "Mirage of the Gulf I",
         
         description: "",
         section: "Posts",
