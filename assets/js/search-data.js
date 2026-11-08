@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-musings-on-24th-birthday",
+        },{id: "post-from-autumn-to-spring",
+        
+          title: "From Autumn to Spring",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/from-autumn-to-spring/";
+          
+        },
+      },{id: "post-musings-on-24th-birthday",
         
           title: "Musings on 24th birthday",
         
