@@ -28,6 +28,13 @@ This repository is set up to deploy with GitHub Actions.
 
 ## Local Preview
 
+Core browser libraries and the theme's Roboto font are hosted in `assets/vendor/`.
+Search downloads its component and index on the first click or Cmd/Ctrl+K.
+MathJax, publication badges, image zoom, and Masonry load only on pages that use
+them. Standard Kramdown math is detected automatically; set `math: true` in a
+page's front matter when using raw `$...$` syntax, or `math: false` to opt out.
+Custom Masonry pages can set `masonry: true` in their front matter.
+
 This repo now includes a local preview workflow for macOS with Homebrew Ruby:
 
 ```bash
