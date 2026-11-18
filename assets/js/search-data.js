@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-from-autumn-to-spring",
+        },{id: "post-breath-of-the-wild",
+        
+          title: "Breath of the Wild",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/breath-of-the-wild/";
+          
+        },
+      },{id: "post-from-autumn-to-spring",
         
           title: "From Autumn to Spring",
         
